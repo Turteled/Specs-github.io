@@ -1,17 +1,23 @@
-# Specs-github.io
-
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-        Satco Specs
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Multiple Links</title>
+<style>
+    body {
+        background-color: black;
+        color: white;
+    }
+    a {
+        color: white;
+        text-decoration: none;
+    }
+</style>
 </head>
 <body>
-    <h1>Spec Sheets</h1>
-    <p>Check out these links:</p>
-    <ul>
-        <li><a href="https://media.satco.com/specsheetsp/pdf/65-1155">65/1155</a></li>
-        <li><a href="https://media.satco.com/specsheetsp/pdf/S8027">S8027</a></li>
-        <li><a href="https://media.satco.com/specsheetsp/pdf/S8025">S8025</a></li>
-    </ul>
+    <a href="(https://media.satco.com/specsheetsp/pdf/65-1155)">[Link 1]</a>
+    <a href="[#](https://media.satco.com/specsheetsp/pdf/S8027)">Link 2</a>
+    <a href="[#](https://media.satco.com/specsheetsp/pdf/S8025)">Link 3</a>
 </body>
 </html>
