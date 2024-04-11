@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Satco Specs</title>
+        Satco Specs
 </head>
 <body>
     <h1>Spec Sheets</h1>
