@@ -1,5 +1,3 @@
-# Specs-github.io
-
 <!DOCTYPE html>
 <html>
 <head>
